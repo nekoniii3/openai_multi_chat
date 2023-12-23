@@ -15,6 +15,8 @@ GPT_Chat_Code_Interpreterでの日本語フォント利用方法を説明しま�
 **指示例 「まずNotoSansJP-Bold.zipを解凍してNotoSansJP-Bold.ttfを取得して下さい。」**
 ![](images/01.PNG)
 
+<br>
+
 アシスタントが正常に読み込めたことを確認。
 ![](images/02.PNG)
 
@@ -26,6 +28,8 @@ GPT_Chat_Code_Interpreterでの日本語フォント利用方法を説明しま�
 
 **指示例 「次のファイルは○○のデータです。こちらを××グラフにして下さい。タイトル・各軸名はNotoSansJP-Bold.ttfを使って日本語にして下さい。」**
 ![](images/03.PNG)
+
+<br>
 
 ※①と一気に指示すればいいと思うかもしれないですが、失敗する可能性が高いので1つずつお願いをすることを推奨します。
 <br>
