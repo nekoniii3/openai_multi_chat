@@ -4,6 +4,9 @@
 GPT Assitantを利用した音声での入出力ができるChatアプリです。<br>
 ①通常会話 ②英会話 ③英語翻訳 の3モードが利用できます。
 
+デモはこちら<br>
+https://huggingface.co/spaces/nekoniii3/GPT_Chat_Audio
+
 <br>
 
 ## 利用方法
