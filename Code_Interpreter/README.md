@@ -36,8 +36,11 @@ create_assistant.pyを実行しコードインタープリターが利用でき�
 ・推奨フォント Noto Sans JP<br>
 https://fonts.google.com/noto/specimen/Noto+Sans+JP
 
+<br>
+
 管理画面からアシスタントに渡しておくと便利です。<br>
 https://platform.openai.com/assistants
+<br>
 
 ![](images/assistants_file.png)
 
