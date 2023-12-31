@@ -33,7 +33,7 @@ create_assistant.pyを実行しコードインタープリターが利用でき�
 グラフのタイトル・軸名が文字化けする場合があります。<br>
 アシスタントに日本語フォントをZIPで渡し、利用してもらうことで解消されます。
 
-・推奨フォント Noto Sans JP<br>
+推奨フォント Noto Sans JP<br>
 https://fonts.google.com/noto/specimen/Noto+Sans+JP
 
 <br>
