@@ -28,5 +28,21 @@ create_assistant.pyを実行しコードインタープリターが利用でき�
 
 <br>
 
+## 日本語フォントの利用方法（グラフの文字化け対応）
 <!-- [日本語フォントの利用ほう](docs\日本語フォント利用)-->
+グラフのタイトル・軸名が文字化けする場合があります。<br>
+アシスタントに日本語フォントをZIPで渡し、利用してもらうことで解消されます。
 
+・推奨フォント Noto Sans JP<br>
+https://fonts.google.com/noto/specimen/Noto+Sans+JP
+
+管理画面からアシスタントに渡しておくと便利です。<br>
+https://platform.openai.com/assistants
+
+![](images/assistants_file.png)
+
+<br>
+
+### 参考
+[デモ向け日本語フォント利用方法](docs\日本語フォント利用)<br>
+https://qiita.com/nekoniii3/items/1abf7bdcca3dbe3f11ac
