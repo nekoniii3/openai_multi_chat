@@ -7,7 +7,7 @@ GPT Assitants APIのCode Interpreter機能が利用できるChatアプリです�
 <br>
 
 **デモはこちら** <br>
-https://huggingface.co/spaces/nekoniii3/GPT_Chat_Audio
+https://huggingface.co/spaces/nekoniii3/GPT_Chat_Code_Interpreter
 
 <br>
 
@@ -28,4 +28,5 @@ create_assistant.pyを実行しコードインタープリターが利用でき�
 
 <br>
 
+<!-- [日本語フォントの利用ほう](docs\日本語フォント利用)-->
 
