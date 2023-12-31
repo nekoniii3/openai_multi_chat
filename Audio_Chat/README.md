@@ -1,7 +1,7 @@
 # OpenAI音声対応Chatアプリ
 
 ## 説明
-GPT Assitantを利用した音声での入出力ができるChatアプリです。<br>
+WhisperとText-to-Speechを利用した音声での入出力ができるChatアプリです。<br>
 ①通常会話 ②英会話 ③英語翻訳 の3モードが利用できます。
 
 <br>
